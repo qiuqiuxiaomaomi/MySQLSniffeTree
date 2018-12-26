@@ -3,6 +3,8 @@ mysql语句审计工具
 
 ![](https://i.imgur.com/amcW9Zp.png)
 
+
+
 <pre>
 MySQL Sniffer 
 
@@ -15,4 +17,16 @@ MySQL Sniffer
       量很大，日志增长也会很快，容易导致硬盘满，也不方便分析SQL语句，同时也会增加数据
       库服务器负担。而MySQLSniffer可以不必生成日志文件，且可以跟踪特定的SQL查询，所
       以这时候就是MySQLSniffer发挥作用的时候
+</pre>
+
+###ER建模图
+
+![](https://i.imgur.com/As8VMe7.png)
+
+###Mysql性能
+
+![](https://i.imgur.com/toSex5z.png)
+
+<pre>
+Mysql workbench
 </pre>
